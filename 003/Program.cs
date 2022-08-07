@@ -18,7 +18,7 @@ for(int i=0;i<ss.Length;i++)
 */
 
 //конвертирует массив строк в массив целых чисел
-int[] a1=Array.ConvertAll<string,int>(ss,int.Parse);
+int[] a=Array.ConvertAll<string,int>(ss,int.Parse);
 
 for(int i=1;i<a.Length;i=i+2)
 {
