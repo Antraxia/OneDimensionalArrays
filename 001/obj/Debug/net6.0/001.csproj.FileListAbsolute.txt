@@ -1,0 +1,15 @@
+E:\OneDimensionalArrays\001\bin\Debug\net6.0\001.exe
+E:\OneDimensionalArrays\001\bin\Debug\net6.0\001.deps.json
+E:\OneDimensionalArrays\001\bin\Debug\net6.0\001.runtimeconfig.json
+E:\OneDimensionalArrays\001\bin\Debug\net6.0\001.dll
+E:\OneDimensionalArrays\001\bin\Debug\net6.0\001.pdb
+E:\OneDimensionalArrays\001\obj\Debug\net6.0\001.csproj.AssemblyReference.cache
+E:\OneDimensionalArrays\001\obj\Debug\net6.0\001.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDimensionalArrays\001\obj\Debug\net6.0\001.AssemblyInfoInputs.cache
+E:\OneDimensionalArrays\001\obj\Debug\net6.0\001.AssemblyInfo.cs
+E:\OneDimensionalArrays\001\obj\Debug\net6.0\001.csproj.CoreCompileInputs.cache
+E:\OneDimensionalArrays\001\obj\Debug\net6.0\001.dll
+E:\OneDimensionalArrays\001\obj\Debug\net6.0\refint\001.dll
+E:\OneDimensionalArrays\001\obj\Debug\net6.0\001.pdb
+E:\OneDimensionalArrays\001\obj\Debug\net6.0\001.genruntimeconfig.cache
+E:\OneDimensionalArrays\001\obj\Debug\net6.0\ref\001.dll
